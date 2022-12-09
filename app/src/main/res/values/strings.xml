@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android MySQL CRUD</string>
+    <array name="teams">
+        <item>Avengers</item>
+        <item>Justice League</item>
+        <item>X-Men</item>
+        <item>Fantastic Four</item>
+    </array>
+</resources>
